@@ -4,7 +4,7 @@
 Для установки ПО на свой компьютер вам нужно скачать архив репозитория, пометить содержимое в любую директорию, запустить IntelliJIdea и открыть проект в при помощи этой программы.
 ### Установка
 Программа копирует содержимое copied_file0 и copied_file1 в pasted_file0 и pasted_file1. Для работы программы вы должны поместьть в copied_file0 или copied_file1 текст и запустить программу в среде разработки. По завершении программы в pasted_file0 и pasted_file1 будет содержаться текст из copied_file0 и copied_file1.
-[screen](https://github.com/Pasteger/CopyingFilesNIO/blob/master/Screenshot_6.png)
+![screen](https://github.com/Pasteger/CopyingFilesNIO/blob/master/Screenshot_6.png)
 ### Тестирование
 На данный момент в программе отсутствует тестирование. Его разработка начнётся в ближайшее время.
 ### Развертывание
